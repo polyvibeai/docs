@@ -8,10 +8,10 @@
 - **Focus Areas:** Product strategy, business development, legal structure, fundraising strategy, brand, marketing
 - **Background:** Deep familiarity with legal entity optimization (QSBS, LLC-to-C-Corp), go-to-market, and startup strategy
 
-### William Key (Co-Founder)
+### William Key (Co-Founder / CTO)
 - **Equity:** 50%
-- **Focus Areas:** TBD — to be detailed
-- **Collaboration:** Active partner in product and company building
+- **Focus Areas:** Engineering, product development, technical architecture — wears multiple hats across the stack
+- **Background:** Technical co-founder driving the engineering and product vision; hands-on across frontend, backend, and AI infrastructure
 
 ---
 
@@ -78,4 +78,4 @@ As the company grows, key hires anticipated in roughly this order:
 |---|---|
 | GitHub | Code, technical docs (this repo) |
 | Figma | Design collaboration |
-| [Messaging tool TBD] | Day-to-day team communication |
+| Slack | Day-to-day team communication |

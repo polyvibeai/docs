@@ -104,7 +104,7 @@ Polyvibe is the AI-powered style platform where you can virtually try on any out
 ### Primary Message (to new users)
 "See yourself in any outfit before you buy it — and share your style with the world."
 
-### Message by User Motivation
+### Message by User Motivation ([See Personas](./MARKETING.md#target-user-personas))
 
 **For the Curious Shopper:**
 "Stop guessing how clothes will look. Try them on with AI and only buy what you love."
@@ -123,7 +123,7 @@ Polyvibe is the AI-powered style platform where you can virtually try on any out
 
 ---
 
-## Brand Expansion Philosophy
+## Brand Expansion Philosophy ([See Category Roadmap](./ROADMAP.md#phase-4--category-expansion))
 
 Polyvibe's brand is designed to grow beyond fashion. The "vibe" construct is intentionally broad:
 - Style vibe → Fashion (MVP)

@@ -25,7 +25,7 @@ Polyvibe operates on a dual-revenue model: **affiliate commerce** as the primary
   - Advanced features (multi-item outfits, enhanced customization)
   - Early access to new categories
 - Pricing TBD — expected range: $9.99–$19.99/month
-- PRO launches in Phase 3 after proving engagement and retention with free users
+- PRO launches in [Phase 3](./ROADMAP.md#phase-3--pro-subscription-launch) after proving engagement and retention with free users
 
 ### 3. Future Revenue Opportunities (Not Yet Prioritized)
 - Brand partnerships / sponsored content in feed
@@ -71,7 +71,7 @@ Polyvibe operates on a dual-revenue model: **affiliate commerce** as the primary
 
 ### Target Raise
 - Seed round anticipated after MVP validation and early user traction
-- Target investors: AI-focused VCs, consumer app funds, fashion/commerce-adjacent investors
+- Target investors: AI-focused VCs, consumer app funds, fashion/commerce-adjacent investors — see [COMPETITORS.md — Market Signals](./COMPETITORS.md#market-signals) for competitive funding context
 - QSBS-optimized structure will be in place before any institutional round
 
 ### Strategic Acquisition Consideration
@@ -103,7 +103,7 @@ Polyvibe operates on a dual-revenue model: **affiliate commerce** as the primary
 |---|---|
 | AI generation quality | Continuous model improvement; quality gates before launch |
 | Affiliate commission rate compression | Diversify brand partnerships; build direct brand relationships |
-| Platform dependency (App Store) | Build web-based version in parallel (Framer landing page → web app) |
-| Copycat competitors | Speed to market, brand building, user data moat, trademark protection |
+| Platform dependency (App Store) | Build web-based version in parallel (custom-built landing page → web app) |
+| Copycat competitors | Speed to market, brand building, user data moat, trademark protection — see [COMPETITORS.md](./COMPETITORS.md) |
 | Avatar privacy concerns | Clear privacy policy, no data selling, transparent data use |
 | Slow user growth | UGC-first marketing, influencer seeding, product virality loops |

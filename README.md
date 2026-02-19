@@ -39,6 +39,7 @@ Polyvibe lets users create a personalized AI avatar, virtually try on outfits in
 | [`TEAM.md`](./TEAM.md) | Team structure, roles, hiring, collaborators |
 | [`MARKETING.md`](./MARKETING.md) | Go-to-market strategy, user personas, UGC campaigns |
 | [`ROADMAP.md`](./ROADMAP.md) | Phase-by-phase development and launch roadmap |
+| [`COMPETITORS.md`](./COMPETITORS.md) | Competitive landscape, market analysis, and strategic positioning |
 
 ---
 

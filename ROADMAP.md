@@ -2,7 +2,7 @@
 
 ## Overview
 
-Polyvibe's development is organized into three primary phases, moving from MVP validation through social engagement to monetization. The guiding philosophy is: **earn the right to the next phase** by validating the current one.
+Polyvibe's development is organized into four primary phases, moving from MVP validation through social engagement to monetization and category expansion. The guiding philosophy is: **earn the right to the next phase** by validating the current one.
 
 ---
 
@@ -33,11 +33,11 @@ Polyvibe's development is organized into three primary phases, moving from MVP v
 | App Store + Google Play launch | 🔜 Next |
 
 ### Key Deliverables This Phase
-- Complete brand identity (logo, colors, typography)
-- Launch UGC marketing campaigns on TikTok and Instagram
+- Complete [brand identity](./BRAND.md#brand-assets-checklist) (logo, colors, typography)
+- Launch [UGC marketing campaigns](./MARKETING.md#ugc-campaign-strategy) on TikTok and Instagram
 - Instrument analytics across the full user funnel
-- Conduct user research / interviews to validate personas
-- Optimize onboarding to maximize avatar creation rate
+- Conduct user research / interviews to [validate personas](./MARKETING.md#target-user-personas)
+- Optimize onboarding to maximize avatar creation rate ([FTUE design](./PRODUCT.md#first-time-user-experience-ftue))
 - Soft launch via App Store with controlled traffic
 
 ---
@@ -101,7 +101,7 @@ Polyvibe's development is organized into three primary phases, moving from MVP v
 
 ## Phase 4 — Category Expansion
 
-**Goal:** Extend the Polyvibe platform beyond fashion to validate the "Pinterest for generative AI" thesis.
+**Goal:** Extend the Polyvibe platform beyond fashion to validate the ["Pinterest for generative AI"](./PRODUCT.md#vision) thesis.
 
 **First Expansion Category (Candidate):** Interior Design — "What would this room look like with a different couch?"
 
@@ -134,3 +134,5 @@ Polyvibe's development is organized into three primary phases, moving from MVP v
 | First expansion category (interior design vs. beauty) | Phil + William | End of Phase 2 |
 | Affiliate network selection | Phil | Phase 1 completion |
 | Generation model vendor / strategy | Engineering | Phase 1 |
+
+> See [COMPETITORS.md](./COMPETITORS.md) for competitive landscape and market signals that may inform these decisions.

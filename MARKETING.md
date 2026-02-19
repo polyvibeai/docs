@@ -78,7 +78,7 @@ The initial marketing strategy is entirely content and community-driven. We are 
 
 ---
 
-## Messaging by Persona
+## Messaging by Persona ([See Brand Messaging Framework](./BRAND.md#messaging-framework))
 
 | Persona | Core Message |
 |---|---|
@@ -109,21 +109,21 @@ The initial marketing strategy is entirely content and community-driven. We are 
 - **App Name:** Polyvibe
 - **Keywords:** AI try-on, virtual wardrobe, outfit generator, style AI, fashion app, AI fashion
 - **Screenshots:** Must show the try-on magic moment prominently — before/after avatar try-on
-- **Preview Video:** UGC-style demo showing the FTUE and first try-on generation
+- **Preview Video:** UGC-style demo showing the [FTUE](./PRODUCT.md#first-time-user-experience-ftue) and first try-on generation
 - **Ratings Strategy:** Prompt happy users for reviews immediately after their first successful generation
 
 ---
 
 ## Landing Page (polyvibe.ai)
 
-**Platform:** Framer
+**Platform:** Custom-built website
 **Goals:**
 - Capture email waitlist for users not yet on TestFlight
 - Convey the product value proposition in < 5 seconds
 - Build brand credibility and social proof
 
 **Key Sections:**
-1. Hero — "What's your vibe?" with cycling sub-headlines and CTA
+1. Hero — ["What's your vibe?"](./BRAND.md#tagline--hero-headline) with [cycling sub-headlines](./BRAND.md#cycling-sub-headlines-landing-page--onboarding) and CTA
 2. Product demo / screenshots
 3. How it works (3 steps: Create avatar → Try on → Share)
 4. Social proof (reviews, UGC content, download count)

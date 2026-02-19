@@ -84,11 +84,12 @@ These tabs are community-facing and drive discovery and sharing.
 - Follower / following counts
 - Link to affiliate products worn in posts
 
-### PRO Subscription (Phase 3+)
+### PRO Subscription ([Phase 3+](./ROADMAP.md#phase-3--pro-subscription-launch))
 - Unlimited generations per month (free tier has a cap)
 - Priority processing / faster generation
 - Advanced customization options
 - Early access to new features and categories
+- See [BUSINESS.md](./BUSINESS.md#2-pro-subscriptions-secondary) for pricing and conversion targets
 
 ---
 
@@ -144,7 +145,7 @@ The onboarding flow is critical and must deliver the "wow" moment as fast as pos
 
 ---
 
-## Category Expansion Roadmap
+## Category Expansion Roadmap ([Full Roadmap](./ROADMAP.md#phase-4--category-expansion))
 
 | Phase | Category | Notes |
 |---|---|---|
@@ -167,3 +168,5 @@ The onboarding flow is critical and must deliver the "wow" moment as fast as pos
 | Existing try-on apps | Try-on technology | We add social discovery and community |
 
 Polyvibe's moat is the combination of private AI workspace + public social discovery + affiliate commerce in a single cohesive experience.
+
+> **For the full competitive analysis** — including detailed profiles of Doji, Gensmo, Alta, Daydream, Google, Walmart, ShopLTK, ShopMy, and more — see [COMPETITORS.md](./COMPETITORS.md).
