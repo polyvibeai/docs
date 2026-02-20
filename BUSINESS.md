@@ -17,6 +17,45 @@ Polyvibe operates on a dual-revenue model: **affiliate commerce** as the primary
 
 **Key insight:** The try-on experience is the conversion tool. A user who has "worn" an outfit virtually is dramatically more likely to purchase than one who has only seen a flat product image. This is Polyvibe's core commercial thesis.
 
+#### Affiliate Network Strategy
+
+The approach is layered: one aggregator for broad catalog coverage, then direct network accounts for higher margins on top-performing brands.
+
+**Layer 0 — Aggregator (Integrate First)**
+
+| Network | Role | What It Provides |
+|---|---|---|
+| [Skimlinks](https://www.skimlinks.com/) | Primary integration | One API → 48,500 merchants across 50+ networks. Product catalog API (~1B products) with pricing, images, and availability. Powers the Library's product data + affiliate monetization in a single integration. |
+
+**Tier 1 — Direct Network Accounts (Add at Launch)**
+
+| Network | Why | Key Fashion Brands | Commission |
+|---|---|---|---|
+| [Rakuten Advertising](https://rakutenadvertising.com/) | Premium fashion, higher payouts than aggregator pass-through | Sephora, Nordstrom, Macy's, New Balance, Adidas | 5–15% |
+| [CJ Affiliate](https://www.cj.com/) | Largest fashion vertical, enterprise-grade tracking | H&M, Puma, Levi's, Express, Revolve | 5–15% |
+
+Direct accounts give higher commission rates than what Skimlinks passes through (Skimlinks takes a margin as the aggregator). For top-performing brands, the direct relationship = more revenue per sale.
+
+**Tier 2 — Post-Launch**
+
+| Network | Why | Notes |
+|---|---|---|
+| [Impact](https://impact.com/) | Growing fast, strong DTC fashion brands | Nike runs through Impact. Good API and Shopify ecosystem. |
+| [Awin](https://www.awin.com/) | EU/UK fashion expansion | Absorbed ShareASale (Jan 2025). Add when entering international markets. |
+
+**Tier 3 — Fallback / Deprioritized**
+
+| Network | Notes |
+|---|---|
+| Amazon Associates | 1–4% fashion commission (low). PA-API deprecated April 2026, migrating to "Creators API." Cannot use product data directly in mobile apps — must deep-link. Use only as last-resort for items no other retailer carries. |
+
+**Direct Brand Programs:** Most major brands (ASOS, Nike, H&M, Zara, Nordstrom, Revolve, SSENSE) run their affiliate programs through the networks above. Go direct only when negotiating higher rates after proving volume, or for co-marketing deals.
+
+**Implementation sequence:**
+1. Pre-launch: Integrate Skimlinks API → populate Library with product catalog + monetized links
+2. Launch: Add Rakuten + CJ direct accounts for top brands where commission delta matters
+3. Post-PMF: Add Impact (Nike/DTC), Awin (EU). Negotiate direct brand deals for top converters.
+
 ### 2. PRO Subscriptions (Secondary)
 - Free tier includes limited generations per month (cap TBD)
 - PRO tier unlocks:
